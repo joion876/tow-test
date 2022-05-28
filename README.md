@@ -1,7 +1,7 @@
 ## 鸣谢
 
 - [Project X](https://github.com/XTLS/Xray-core)
-- [v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku)
+- [v2ray-heroku](https://github.com/joion876/tow-test)
 - [v2argo](https://github.com/funnymdzz/v2argo)
 
 ## 概述
